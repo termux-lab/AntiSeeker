@@ -6,8 +6,9 @@ cd AntiSeeker<br>
 python3 antiseeker.py -h<br>
 ```
 -h    Help
--p    Parsing the Seeker
--c    To crash Seeker
+-p    Parsing the Seeker -p [url]
+-c    To crash Seeker -c [url]
+-l    Track geo data -l [time] [url]
 ```
 # Example
 python3 antiseeker.py -p https://%%%%%%.ngrok.io<hr>
