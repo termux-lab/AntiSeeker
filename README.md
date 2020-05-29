@@ -4,9 +4,11 @@ Utility for crashed Seeker
 git clone https://github.com/termux-lab/AntiSeeker.git<br>
 cd AntiSeeker<br>
 python3 antiseeker.py -h<br>
--h    Help<br>
--p    Parsing the Seeker<br>
--c    To crash Seeker<br>
+```
+-h    Help
+-p    Parsing the Seeker
+-c    To crash Seeker
+```
 # Example
 python3 antiseeker.py -p https://%%%%%%.ngrok.io<hr>
 ```
