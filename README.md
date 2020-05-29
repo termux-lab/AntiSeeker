@@ -23,5 +23,5 @@ IP       : 192.168.1.2<br>
 Vendor   : Google Inc.<br>
 Render   : ANGLE (AMD Radeon(TM) Vega 3 Mobile Graphics Direct3D11 vs_5_0 ps_5_0)
 ```
-python3 antiseeker.py -p https://******.ngrok.io<hr>
+python3 antiseeker.py -c https://******.ngrok.io<hr>
 *Call error in console
