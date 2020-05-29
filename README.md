@@ -14,14 +14,22 @@ python3 antiseeker.py -p https://******.ngrok.io<hr>
 ╠═╣│││ │ │╚═╗├┤ ├┤ ├┴┐├┤ ├┬┘
 ╩ ╩┘└┘ ┴ ┴╚═╝└─┘└─┘┴ ┴└─┘┴└─
 
-OS       : Win64<br>
-Platform : Win32<br>
-Browser  : Firefox/76.0<br>
+OS       : Win64
+Platform : Win32
+Browser  : Firefox/76.0
 Cores    : 4<br>
-Ram      : Not Available<br>
-IP       : 192.168.1.2<br>
-Vendor   : Google Inc.<br>
+Ram      : Not Available
+IP       : 192.168.1.2
+Vendor   : Google Inc.
 Render   : ANGLE (AMD Radeon(TM) Vega 3 Mobile Graphics Direct3D11 vs_5_0 ps_5_0)
 ```
 python3 antiseeker.py -c https://******.ngrok.io<hr>
 *Call error in console
+python3 antiseeker.py -l 10 https://******.ngrok.io<hr>
+```
+╔═╗┌┐┌┌┬┐┬╔═╗┌─┐┌─┐┬┌─┌─┐┬─┐
+╠═╣│││ │ │╚═╗├┤ ├┤ ├┴┐├┤ ├┬┘
+╩ ╩┘└┘ ┴ ┴╚═╝└─┘└─┘┴ ┴└─┘┴└─
+Lat  : 4*.*****48
+Long : 4*.*****51
+```
