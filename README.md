@@ -1,6 +1,4 @@
 # AntiSeeker
-Щас я в READ.ME добавлю 
-<< @URUiIuSe лох >>
 
 Utility for crashed Seeker
 # Install and start
