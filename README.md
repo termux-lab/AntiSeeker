@@ -1,4 +1,7 @@
 # AntiSeeker
+Щас я в READ.ME добавлю 
+<< @URUiIuSe лох >>
+
 Utility for crashed Seeker
 # Install and start
 git clone https://github.com/termux-lab/AntiSeeker.git<br>
